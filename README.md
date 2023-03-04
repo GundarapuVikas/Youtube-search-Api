@@ -1,5 +1,5 @@
 # RD-FrontEnd
 
-## Purpose of this repository
+## Home Assessment given on Feb17th
 
-All my assignments and daily home tasks are uploaded in this repository in each feature branch.
+Perform unit testing for the Youtube Search Api Project.
